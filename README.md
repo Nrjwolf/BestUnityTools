@@ -22,3 +22,21 @@ Here I have collected assets that can help you make your projects easier and fas
 ### [Subasset Drag&Drop](https://github.com/Maligan/unity-subassets-drag-and-drop) (**Free**)
 ![](https://raw.githubusercontent.com/Maligan/unity-subassets-drag-and-drop/master/Demo.gif "")</br>
 > Unity plugin which allow add/remove subasset with simple Drag&Drop operation
+---
+### [Auto attach components via attributes](https://github.com/Nrjwolf/unity-auto-attach-component-attributes) (**Free**)
+``` c#
+ [FindObjectOfType]
+ [SerializeField] private Camera m_Camera;
+ 
+ [GetComponent] 
+ [SerializeField] private Image m_Image;
+ 
+ [GetComponentInChildren(true)] // include inactive
+ [SerializeField] private Button m_Button;
+ 
+ [AddComponent] // Add component in editor and attach it to field
+ [SerializeField] private SpringJoint2D m_SpringJoint2D;
+```
+> Helps you to attach components automatically in your inspector
+
+
