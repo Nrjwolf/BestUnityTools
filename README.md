@@ -70,7 +70,7 @@ DOTween is a fast, efficient, fully type-safe object-oriented animation engine, 
 
 ## Shaders
 
-### [Smooth radial gradient shader](https://github.com/Nrjwolf/unity-shader-sprite-radial-fill) (**Free**)
+### [Radial fill shader](https://github.com/Nrjwolf/unity-shader-sprite-radial-fill) (**Free**)
 ![](https://raw.githubusercontent.com/Nrjwolf/unity-shader-sprite-radial-fill/master/gif.gif "")</br>
 This shader helps to create radial fill with sprite
 </br>
