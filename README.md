@@ -13,7 +13,7 @@ Provide an easy way to see what PlayerPrefs your game is using and change them a
 Odin puts your Unity workflow on steroids, making it easy to build powerful and advanced user-friendly editors for you and your entire team. 
 </br>
 ### [In-game Debug Console for Unity 3D](https://github.com/yasirkula/UnityIngameDebugConsole) (**Free**)
-![](https://raw.githubusercontent.com/yasirkula/UnityIngameDebugConsole/master/Images/1.png "")</br>
+![](https://github.com/yasirkula/UnityIngameDebugConsole/blob/master/.github/Images/1.png "")</br>
 This asset helps you see debug messages (logs, warnings, errors, exceptions) runtime in a build (also assertions in editor) and execute commands using its built-in console. It also supports logging logcat messages to the console on Android platform.
 </br>
 ### [Unity Animation Hierarchy Editor](https://github.com/s-m-k/Unity-Animation-Hierarchy-Editor) (**Free**)
@@ -38,6 +38,7 @@ Unity plugin which allow add/remove subasset with simple Drag&Drop operation
  [AddComponent] // Add component in editor and attach it to field
  [SerializeField] private SpringJoint2D m_SpringJoint2D;
 ```
+[![Play](https://img.youtube.com/vi/LdiJdgHrBl4/0.jpg)](https://www.youtube.com/watch?v=LdiJdgHrBl4)</br>
 Helps you to attach components automatically in your inspector
 </br>
 ### [Asset Usage Detector for Unity 3D](https://github.com/yasirkula/UnityAssetUsageDetector) (**Free**)
