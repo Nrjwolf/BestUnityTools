@@ -92,7 +92,7 @@ Localizing your games and apps with this asset is really simple and cool. Create
 Bezier curve editor for Unity game engine
 </br>
 ### [IOS Easy Alert](https://github.com/Nrjwolf/unity-ios-easy-native-alert) (**Free**)
-![](https://github.com/Nrjwolf/unity-ios-easy-native-alert/blob/master/images/SimpleAlert.png "")</br>
+![](https://github.com/Nrjwolf/unity-ios-easy-native-alert/raw/master/.github/sceenshot_ios_alerts.png "")</br>
 Helps to call native alerts on IOS
 </br>
 ### [Camera scaler](https://github.com/Nrjwolf/Unity-Camera-Scaler) (**Free**)
