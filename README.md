@@ -105,5 +105,5 @@ Cross Platform Native Plugins a true cross platform tool for Unity which provide
 </br>
 
 >I'm on [reddit](https://www.reddit.com/r/Nrjwolf/)  
->Мой [телеграм канал](https://t.me/nrjwolf_live)
+>Мой [телеграм канал](https://t.me/nrjwolf_games)
 
